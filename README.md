@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+background-color: #FFFFFF;
+background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%);
+
+
 <!--
 **emma1-edgar1/emma1-edgar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
